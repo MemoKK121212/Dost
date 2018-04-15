@@ -1,0 +1,2 @@
+# Dost
+Dostluk botu
